@@ -1,0 +1,24 @@
+{
+  "name": "holo-card-studio",
+  "version": "1.0.0",
+  "description": "3D Holographic Trading Card Creator with WebGL, Parallax Shaders, and Multimodal AI",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "dev:server": "npm --prefix server run dev",
+    "build": "npm --prefix frontend run build",
+    "install:all": "npm --prefix frontend install && npm --prefix server install"
+  },
+  "keywords": [
+    "threejs",
+    "webgl",
+    "glsl",
+    "holographic",
+    "trading-cards",
+    "parallax-occlusion-mapping",
+    "depth-anything",
+    "generative-ai"
+  ],
+  "author": "HoloCard Studio Contributors",
+  "license": "MIT"
+}
