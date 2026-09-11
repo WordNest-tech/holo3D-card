@@ -6,6 +6,12 @@
 
 ---
 
+<div align="center">
+  <img src="assets/holo3D.gif" alt="3D HoloCard Studio Demo" width="640" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+</div>
+
+---
+
 ## 🌟 Features / 核心特性
 
 - 🔮 **True 3D Relief & Parallax Occlusion (物理立体浮雕与视差遮蔽)**
