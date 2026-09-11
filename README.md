@@ -6,11 +6,12 @@
 
 ---
 
-<div align="center">
-  <img src="assets/holo3D.gif" alt="3D HoloCard Studio Demo - Parallax & Relief" width="640" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5); margin-bottom: 20px;" />
-  <br /><br />
-  <img src="assets/holo3D2.gif" alt="3D HoloCard Studio Demo - Full Feature Showcase" width="640" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
-</div>
+<p align="center">
+  <img src="./assets/holo3D.gif" alt="3D HoloCard Studio Demo 1 - Parallax & Relief" width="640" />
+</p>
+<p align="center">
+  <img src="./assets/holo3D2.gif" alt="3D HoloCard Studio Demo 2 - Full Feature Showcase" width="640" />
+</p>
 
 ---
 
